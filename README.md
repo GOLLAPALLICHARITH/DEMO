@@ -1,5 +1,5 @@
 # DEMO
 <br>
-author - charith
+author - (git charith)
 my first git repository
 <br>
